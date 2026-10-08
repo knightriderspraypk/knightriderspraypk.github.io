@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://knightriderspraypk.github.io/sitemap.xml
